@@ -1,5 +1,8 @@
+## folders
 build/
 
+## files
 *.o
 *.a
 *.so
+*.swp
